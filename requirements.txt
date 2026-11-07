@@ -1,0 +1,16 @@
+# Core (Phases 1-6, 9)
+numpy
+scipy
+opencv-python
+matplotlib
+scikit-image
+pytest
+
+# OCR (Phase 8) - also needs the Tesseract PROGRAM installed, see README
+pytesseract
+
+# Web app (Phase 10)
+streamlit
+
+# Phase 7 (deep learning) is deliberately NOT used: see docs/phase7_decision.md
+# torch torchvision
